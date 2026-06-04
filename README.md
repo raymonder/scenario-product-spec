@@ -1,5 +1,7 @@
 # scenario-product-spec
 
+Version: 0.9
+
 场景化产品方案写作 skill，用于把功能清单、需求矩阵或 RFP 条款扩写成“角色 + 场景 + 条件 + 系统响应 + 业务价值”的完整产品叙事。
 
 ## 能实现什么功能
@@ -107,4 +109,3 @@ scenario-product-spec/
 - 把高质量项目片段沉淀到 `references/example-excerpt.md`，作为下一次模仿的语气样本。
 - 图表制作流程有变化时更新 `references/diagrams-and-visuals.md`。
 - 保持 `SKILL.md` 聚焦核心工作流，长例子和工具细节放在 `references/`。
-
