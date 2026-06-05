@@ -1,6 +1,6 @@
 # scenario-product-spec
 
-Version: 0.9
+版本：0.9
 
 场景化产品方案写作 skill，用于把功能清单、需求矩阵或 RFP 条款扩写成“角色 + 场景 + 条件 + 系统响应 + 业务价值”的完整产品叙事。
 
@@ -15,7 +15,7 @@ Version: 0.9
 
 ## 安装方式
 
-把仓库 clone 到 Codex skills 目录。
+把仓库 clone 到你的 agent skills 目录即可，例如 Codex：
 
 ```bash
 cd ~/.codex/skills
@@ -31,7 +31,7 @@ git clone https://github.com/raymonder/scenario-product-spec.git
     └── references/
 ```
 
-安装后重启 Codex，或重新打开会话，让 skill metadata 被加载。
+安装后重启 agent，或重新打开会话，让 skill metadata 被重新加载。
 
 ## 怎么使用
 
